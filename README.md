@@ -79,6 +79,6 @@ Send HTML Email
 
 ## 👨‍💻 Author
 
-**Godspower Ikenna**
+**Ogana Ikenna**
 
 Learning AI Automation Engineering one workflow at a time.
