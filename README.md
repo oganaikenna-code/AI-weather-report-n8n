@@ -53,7 +53,7 @@ Gmail (HTML Email)
 
 Click below to download and import the workflow into n8n.
 
-📥 **[Download the Workflow](./daily-weather-report.json)**
+📥 **[Download the Workflow](./daily-weather-report.json.PNG)**
 
 ---
 
