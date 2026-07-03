@@ -57,15 +57,13 @@ Send HTML Email
 
 ## 📷 Screenshots
 
-*Workflow Screenshot*
+### n8n Workflow
 
-(Add later)
+![Workflow](workflow.png)
 
-*Sample Email*
+### HTML Weather Email
 
-(Add later)
-
----
+![Weather Email](weather-email.png)
 
 ## 📈 Future Improvements
 
