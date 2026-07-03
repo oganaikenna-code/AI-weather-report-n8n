@@ -61,7 +61,7 @@ Click below to download and import the workflow into n8n.
 
 ### HTML Email Output
 
-[![Weather Email](./weather-report-output.png)](./weather-report-output.png)
+[![Weather Email](./weather-report-output.png.PNG)](./weather-report-output.png.PNG)
 
 Click the image above to view it in full size.
 
