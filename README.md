@@ -1,21 +1,18 @@
 # 🌤️ AI Weather Report with n8n
 
-## 📌 Overview
-
-This project is an AI-powered weather reporting workflow built using n8n.
-
-The workflow automatically retrieves live weather data from the Open-Meteo API, processes the data with JavaScript, generates a concise AI weather summary, and sends a beautifully formatted HTML email through Gmail.
+An automated weather reporting workflow built with **n8n**, **JavaScript**, **Google Gemini AI**, and the **Open-Meteo API**.
 
 ---
 
-## 🚀 Features
+## 📌 Overview
 
-- ⏰ Automatic scheduled execution
-- 🌦️ Live weather data from Open-Meteo API
-- 💻 JavaScript data transformation
-- 🤖 AI-generated weather summary
-- 📧 Professional HTML email
-- 📮 Gmail integration
+This workflow automatically:
+
+- ⏰ Runs on a schedule
+- 🌦️ Retrieves live weather data from the Open-Meteo API
+- 💻 Processes the data using JavaScript
+- 🤖 Generates a weather summary using AI
+- 📧 Sends a professional HTML email through Gmail
 
 ---
 
@@ -24,48 +21,59 @@ The workflow automatically retrieves live weather data from the Open-Meteo API, 
 - n8n
 - JavaScript
 - Open-Meteo API
-- Google Gemini AI (or OpenRouter)
-- Gmail API
+- Google Gemini AI
+- Gmail
 
 ---
 
-## 📊 Workflow
+## ⚙️ Workflow
 
+```text
 Schedule Trigger
-
-↓
-
+        │
+        ▼
 HTTP Request
-
-↓
-
+        │
+        ▼
 Edit Fields
-
-↓
-
-Code (JavaScript)
-
-↓
-
-AI Weather Summary
-
-↓
-
-Send HTML Email
+        │
+        ▼
+JavaScript Code
+        │
+        ▼
+AI Agent
+        │
+        ▼
+Gmail (HTML Email)
+```
 
 ---
 
-## 📷 Email Output
+## 📂 Workflow File
 
-![Email Output](weather-report-output.png)
+Click below to download and import the workflow into n8n.
 
-## 📈 Future Improvements
+📥 **[Download the Workflow](./daily-weather-report.json)**
 
-- Multi-city weather reports
-- Three-day forecast
+---
+
+## 📷 Screenshots
+
+### HTML Email Output
+
+[![Weather Email](./weather-report-output.png)](./weather-report-output.png)
+
+Click the image above to view it in full size.
+
+---
+
+## 🚀 Future Improvements
+
+- 3-Day Forecast
 - Sunrise & Sunset
-- Dynamic weather banners
-- Slack notifications
+- Dynamic Weather Icons
+- Slack Notifications
+- Multi-City Reports
 
 ---
 
@@ -73,4 +81,4 @@ Send HTML Email
 
 **Ogana Ikenna**
 
-Learning AI Automation Engineering one workflow at a time.
+Learning AI Automation Engineering one project at a time.
