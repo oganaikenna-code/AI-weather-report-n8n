@@ -55,15 +55,9 @@ Send HTML Email
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshot
 
-### n8n Workflow
-
-![Workflow](workflow.png)
-
-### HTML Weather Email
-
-![Weather Email](weather-email.png)
+![Weather Report](weather-report.png)
 
 ## 📈 Future Improvements
 
