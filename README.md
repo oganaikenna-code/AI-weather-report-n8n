@@ -55,9 +55,9 @@ Send HTML Email
 
 ---
 
-## 📷 Screenshot
+## 📷 Email Output
 
-![Weather Report](weather-report.png)
+![Email Output](weather-report-output.png)
 
 ## 📈 Future Improvements
 
